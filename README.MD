@@ -12,7 +12,7 @@
     <a href="https://github.com/RedolentHalo/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=RedolentHalo&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=00ff99&ring=00ff99&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     </a>
-[![RedolentHalo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/redolenthalo)
+![RedolentHalo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=redolenthalo)
     <a href="https://open.spotify.com/user/e634z74o7ejz8fmtz4iutcrow?si=b91279d338d04680">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=e634z74o7ejz8fmtz4iutcrow&cover_image=true&theme=novatorem&bar_color=00FF99&bar_color_cover=false"/>
     </a>
